@@ -1,0 +1,421 @@
+{"intents": [
+	{"class": "Laundry",
+	"questions": ["When does my laundry get picked up?",
+		     "Where do I drop my laundry off?",
+		     "Where can I pick up my laundry?",
+		     "Does it cost money to use the washer and dryer in dorm?",
+		     "Is there a laundry service?",
+		     "Are there washing machines and dryers?",
+		     "What do I do if I forgot to put my laundry out?",
+		     "How frequent is the laundry service?",
+		     "Where are the washing machines?",
+		     "Are there laundromats near school?",
+		     "Where can I do my laundry?",
+		     "Do I need to bring my own detergent?",
+		     "What do I need to bring to do my own laundry?",
+		     "Do I need to wash my own clothes?",
+		     "Do I have to pay for laundry?",
+		     "Who offers the laundry service?",
+		     "Who do I contact if I want to use the laundry service?",
+		     "What days of the week do I put my laundry bag out?",
+		     "Where can I pick up my bag for the laundry service?"],
+	"response": ["There are washing machines and dryers available to every dorm. They don’t cost any money, 
+		and if you don't know where they are, ask a returning student. If you do the E&R laundry service, 
+		you must use the bag given to you, put your laundry there, and put it where you got your laundry 
+		bag from on Thursdays. You should get your clean clothes back on Monday from the same spot, which 
+		varies per dorm. If you forget to put your bag out, make sure to remember to put it out next week."]
+	},
+	{"class": "Food and Restaurants",
+	"questions": ["What is the food like at school?",
+		      "Are there vegetarian food options?",
+		      "Are there vegan food options?",
+		      "Where is food served?",
+		      "Is there breakfast?",
+		      "What times are breakfast, lunch, and dinner served?",
+		      "What is the Kwok cafe?", 
+		      "Is the food good?",
+		      "Are there special meals for holidays?",
+		      "What kind of food is there?",
+		      "Where do I eat meals?",
+		      "Which dining rooms are the upper, middle and lower?",
+		      "Can I start a cooking business in the dorm?",
+		      "what time is dinner at?",
+		      "What is food ordering hours?",
+		      "where does food orders get dropped off?",
+		      "What are the names of the rooms in the dining hall?",
+		      "What are food ordering hours?",
+		      "What times can I order food?",
+		      "What are good places to eat in town?",
+		      "where can i get food?",
+		      "what are good places to eat off campus?",
+		      "which pizza place is best?"],
+	"response": ["You can get your meals at the dining hall during certain times of day. Breakfast 
+		is 6 to 8:30, lunch is 11 to 1, dinner is 5 to 7. Brunch is on Sundays and runs from 9 to 1. 
+		If you have any dietary restrictions, you can talk to staff, and there should always be vegan 
+		and vegetarian options available. There are lots of different options at every meal, and you can 
+		find the menu for each meal at this link: https://sps.flikisdining.com/menu. Kwok cafe is an option 
+		as well, although that costs money, and offers food like chicken fingers, pizza, candy, and other 
+		things not typically served at the uppered. Grab ‘n’ Go is an option for lunch and can be found 
+		at the Friedman Community Center if you don’t have enough time to go to the dining hall. You can also
+		go into town during town hours and enjoy restaurants like Dos Amigos, the Works, and Vibes."]
+	},
+	{"class": "Academic Classes",
+	"questions": ["Where are my classes?",
+		      "How many classes will I take each year?",
+		      "What are the graduation requirements?",
+		      "Do I have to take a placement test for math and language?",
+		      "What exactly is humanities?",
+		      "What are the core classes?",
+		      "Are there terms or semesters?",
+		      "Are there Saturday classes?",
+		      "How often do classes meet?",
+		      "What is a seminar class?",
+		      "How long do classes meet for?",
+		      "How do I get into ASEP?",
+		      "What are the easiest classes?",
+		      "How do I get an HH+?",
+		      "how much homework should each class assign?",
+		      "what is ASEP?",
+		      "what languages do we offer here?",
+		      "How long is the walk from Lindsay to the upper?",
+		      "do we solar panels on Lindsay?",
+		      "why do we have no AP classes?",
+		      "what is the religion class requirement?",
+		      "How long is hum flex?",
+		      "How do I get into ASEP?",
+		      "What are the homework time limits?",
+		      "Why aren’t there AP classes?",
+		      "Are classes hard?",
+		      "Are classes difficult?",
+		      "If I want to change one of my classes, who do I email?",
+		      "Can I take AP tests?"],
+	"response": ["Each class meets four times a week, in three 45-minute blocks and one 
+		long block, and classes go from Monday until Saturday although Wednesdays and 
+		Saturdays are half-days. You can find your schedule posted on Core. “Hum flex” 
+		is a period where if you have a humanities III, IV, or V class adjacent to it, 
+		you will spend hum flex in that class. It is a term system: fall, winter, and 
+		spring; you should take at least 5 classes a term, but you need permission to 
+		do six. Humanities and language classes are in Schoolhouse, and math and science 
+		classes are in Lindsay. You can read the room numbers by doors to find your 
+		specific classroom."]
+	},
+	{"class": "Studying, IT, and Academic Support",
+	"questions": ["Is there peer tutoring?",
+		      "Who do I contact about accomodations?",
+		      "How do I know if I have accomodations?",
+		      "How do office hours work?",
+		      "Is there mandatory study hall?",
+		      "Where can I find peer tutors?",
+		      "What subjects are there peer tutors for?",
+		      "How do I know if I have extra time because of accomodations?",
+		      "Where can I go to loan a charger?",
+		      "Where can I go to loan a laptop?",
+		      "Where do I go if my laptop is broken?",
+		      "Is there a library?",
+		      "Are there designated study hours?",
+		      "what is peer tutoring?",
+		      "what classes is peer tutoring available for?",
+		      "what is study hall?",
+		      "What are IT hours?",
+		      "How do I log into the wifi?",
+		      "How do I use the printers here?",
+		      "How do I print stuff?",
+		      "How do I find the directory?",
+		      "where is peer tutoring?"],
+	"response": ["Peer tutoring, study hall, and office hours are all options if you need 
+		help with your academics. Peer tutoring gives you an opportunity to ask classmates 
+		questions, study hall allows you to focus on your homework with no interruptions, and 
+		you can ask your teacher questions during their office hours. If you have any questions 
+		or need to discuss accommodations, you can contact Mrs. Daniels. On the topic of studying,
+		the library has plenty of quiet or group spaces, and you can even reserve rooms. Peer tutors
+		are also in the basement of the library every night from 7-8:30, and they can help with
+		math, science, and language. Any questions about printing or accessing Wi-Fi can be directed
+		to IT, who are in the basement of Schoolhouse. You can also loan chargers and laptops there
+		in case of an emergency."]
+	},
+	{"class": "Dorms, Intervis, and Prefects",
+	"questions": ["Are freshman in separate dorms from upperclassmen?",
+		      "How many people are there per dorm?",
+		      "What should I pack?",
+		      "Will I have a roommate?",
+		      "How big are the dorms?",
+		      "Is there a lights out period?",
+		      "When is curfew?",
+		      "Is there a curfew?",
+		      "What is move-in like?",
+		      "Do I need to bring furniture?",
+		      "What time is intervis?",
+		      "When is my dorm getting renovated?",
+		      "when does intervis start?",
+		      "what does a prefect do?",
+		      "what is right to return?",
+		      "what is pulling someone in?",
+		      "why are the Kitts so bad?",
+		      "what is the biggest dorm on campus?",
+		      "what is a dorm rep?",
+		      "can I hang a tapestry?",
+		      "How do I become in-house prefect?",
+		      "Do the dorms have air conditioning?",
+		      "am i allowed to bring a blender to the dorm?",
+		      "how many fridges can i have in my room?",
+		      "can I hang a flag on the wall of my room?",
+		      "can I hang a jersey on the wall of my room?",
+		      "am I allowed to have LEDs in my room?"],
+	"response": ["Living in a dorm is a great opportunity to get to know your classmates and teachers. 
+		You should pack similarly if you were going to college (bedding, clothing, school supplies, etc.), 
+		so college packing lists online may help. However, each room will already have a dresser, desk, bookshelf, 
+		bedframe, and closet for each student. There is no air conditioning, and the first few weeks are pretty hot, 
+		so you should bring a fan as well to keep your room cool. There is also intervis, which is an opportunity to visit other dorms 
+		or have someone visit yours, and you need to check in to the dorm and stay in the dorm at any time from 8 pm to 9:15 pm depending
+		on what grade you are entering. Your room will likely have one or two roommates your first year. Each 
+		dorm also has a kitchen, washers and dryers, and a common room. There are also certain restrictions on lights and 
+		extra furniture, so feel free to ask your prefect or advisor any questions you may have."]
+	},
+	{"class": "Dances, Fun, and Weekend Activites",
+	"questions": ["What is there to do on weekends?",
+		      "Can we go into town?",
+		      "What times can we go into town?",
+		      "Can I go home for the weekend?",
+		      "How often are school dances?",
+		      "Are there dances?",
+		      "Are there any fun activities on the weekends?",
+		      "Is there fun stuff to do?",
+		      "What happens on Saturday nights?",
+		      "Where can I hang out with friends?",
+		      "What is the difference between Hargate and Friedman?",
+		      "where can we swim?",
+		      "what is Hargate?",
+		      "what do people do at Hargate?",
+		      "where are the senior docks?",
+		      "what are town hours?",
+		      "Why is the community center called Hargate?",
+		      "What is SNL?",
+		      "What are town hours?",
+		      "What do I wear to fall ball?",
+		      "how late can I stay in town?",
+		      "can I swim at night?",
+		      "when Halloween dance?",
+		      "what is fall ball?"],
+	"response": ["There are plenty of fun activities on weekends, all planned by Saturday Night Life (SNL) and 
+		sometimes the sixth form officers (SFOs), such as club competitions, movies, dances, and more. Town 
+		hours depend on your form, but anyone can go into town on the weekends. There is a shuttle that runs 
+		to both downtown Concord and to Target on an hourly basis on weekends. Although not recommended, you 
+		can also take Ubers, but if you or a friend live close to school, a parent could drive you as well. 
+		Downtown Concord has a variety of shops, restaurants, and the New Hampshire capitol, and Target also 
+		should have anything you may need."]
+	},
+	{"class": "Afternoon Activities and Athletics",
+	"questions": ["Do I have to play a sport?",
+		      "What sports are there?",
+		      "Is there a way to do community service?",
+		      "What are there for afternoon activities?",
+		      "Do jv teams cut?",
+		      "Do junior varsity teams cut?",
+		      "Are there club sports?",
+		      "How often do sports practice?",
+		      "How often are sports games?",
+		      "Is community service an afternoon activity?",
+		      "Where are the athletic trainers?",
+		      "What time is the AFC open?",
+		      "what is a night game?",
+		      "where is the turf?",
+		      "why do we not have a swim team?",
+		      "is horseback riding available here?",
+		      "What is the first robotics team number?",
+		      "How do I get community service credits?",
+		      "Why do we not have a swim team?",
+		      "What is the most fun sports team to join?",
+		      "Why does crew suck?",
+		      "What is the first robotics team?",
+		      "How do I open AFC lockers?",
+		      "What time is the AFC open?",
+		      "Can I go workout at the AFC while fitness is in there?",
+		      "Should I join crew?",
+		      "What do I do if I get cut from varsity?",
+		      "How can I join FIRST robotics?",
+		      "How do I get CE credits?",
+		      "How many CE credits do I need to graduate?",
+		      "is the pool ever open?",
+		      "which is the best sports team?",
+		      "do I have to do sports?",
+		      "how many community engagement credits do I need?",
+		      "how do I get community engagement credits?",
+		      "how do I do an ISP?"],
+	"response": ["There are plenty of afternoon activities: service teams, sports, afternoon music, 
+		theater, and robotics in the winter. You can find available sports online, and you can 
+		ask your advisor about what’s available for service opportunities. Theater is something 
+		you can audition for, afternoon music is for continuing with your instrument, and the 
+		robotics team is a great way to learn more about engineering and coding. The graduation 
+		requirements are listed online at sps.edu, and they detail how many sports and team activities 
+		you’ll have to complete each year of attendance. Thirdformers, for example, must participate in 
+		three team-oriented activities and two involving physical activity."]
+	},
+	{"class": "Arts and Music",
+	"questions": ["How do I participate in the fine arts?",
+		      "What if I want to do theater?",
+		      "Do I have to audition for theater?",
+		      "Do I have to auditon for orchestra?",
+		      "Do I have to audition for choir?",
+		      "How can I participate in music?",
+		      "How many plays are there?",
+		      "What do I do if I want to do ballet?",
+		      "What's the art requirement?",
+		      "Is it possible to participate in both the play and a sport?",
+		      "Is art a class or an activity?",
+		      "Are there drawing classes I can take?",
+		      "What should I do if I like to draw?",
+		      "Are there acting and theater classes?",
+		      "Is there a musical performance?",
+		      "How often does the ballet company perform?",
+		      "How many performances are there per term for the orchestra?",
+		      "What is the ballet company?",
+		      "What is hot glass?",
+		      "What is ceramics?",
+		      "Are there ceramics classes?",
+		      "Is there a digital art class?",
+		      "Is there a computer graphics class?",
+		      "Are there dance classes?",
+		      "Are there painting classes?",
+		      "what is acapella?",
+		      "what is a capella?",
+		      "What is the compline?",
+		      "What are the best art classes?",
+		      "do I have to do art?"],
+	"response": ["The arts and music programs at St. Paul’s School are a great opportunity to pursue your 
+		interests in these disciplines. For orchestra and choir, you do have to audition, which will 
+		happen about a week after arrival, but you can also take lessons or the applied music courses. 
+		There are also great fine arts and performing arts programs. The ballet company at St. Paul’s 
+		School and theater both have a performance each term, along with their own auditions, and the 
+		fine arts (which must be participated in through classes) offer photography, drawing, glassblowing, 
+		ceramics, and computer graphics."]
+	},
+	{"class": "Clubs",
+	"questions": ["Are there a lot of clubs at school?",
+		      "How frequently do clubs meet?",
+		      "How easy is it to start my own club?",
+		      "What are affinity groups?",
+		      "Are there any affinity groups?",
+		      "Is there an affinity group for ?",
+		      "What kind of clubs are there?",
+		      "Is there a club fair?",
+		      "How many clubs should I join?",
+		      "Is there a limit to how many clubs you can be in?",
+		      "Where can I join clubs?",
+		      "when is the club fair?",
+		      "what is eco-action?",
+		      "Where do I find the list of clubs?",
+		      "How often do clubs meet?",
+		      "What should I do if I'm interested in many different clubs?",
+		      "what is a club fair?",
+		      "how do i start a club?"],
+	"response": ["The club bazaar usually occurs on a Sunday at the dining hall about 
+		one to two weeks after arriving at school. There are all types of student-run 
+		clubs, ranging from academic clubs to clubs just for fun. Feel free to sign up 
+		for everything at the club fair – attending the first meeting can give you a good 
+		idea of what you’re interested in. There are also affinity groups, like the young 
+		women’s club, Transitions, Latinx society, and more."]
+	},
+	{"class": "Traditions, Chapel, and Holidays",
+	"questions": ["What are the school colors?",
+		      "what is field day?",
+		      "what is seated meal?",
+		      "what days of the week are chapel?",
+		      "what is Delphian, Isthmian, and Old Hundred?",
+		      "what is Delphian?",
+		      "what is Old Hundred?",
+		      "what is isthmian?",
+		      "what is the official score keeper of scores?",
+		      "what is the chapel news?",
+		      "why is the organ so loud?",
+		      "What is Cricket?",
+		      "What is MISH?",
+		      "What is chapel?",
+		      "What are the boat houses?",
+		      "How do I find out what boat house I’m in?",
+		      "Is chapel religious?",
+		      "Are we still an episcopal school?",
+		      "How do I find out what house club I’m in?",
+		      "What is Ecofest?",
+		      "What do you wear to Ecofest?",
+		      "What is the difference between club cup houses and boathouse clubs?",
+		      "What is the best hymn in chapel?",
+		      "Can I give a chapel talk?",
+		      "when is cricket?",
+		      "when is halloween?",
+		      "when is thanksgiving break?",
+		      "How cold is the winter?",
+		      "What clothes should I bring?",
+		      "What should I wear in the winter?",
+		      "What should I wear in the fall?",
+		      "what clothing is appropriate?",
+		      "what is the weather like?"],
+	"response": ["Chapel meets Mondays, Tuesdays, Thursdays, and Fridays mornings, and is a tradition
+		at St. Paul's. It is not religious, and it's more of an assembly to hear student announcements
+		or certain performances or talks from faculty, students, or visiting lecturers. Other traditions include
+		the club system, with Delphian, Isthmian, and Old Hundred being the the three main clubs and Halcyon
+		and Shattuck also serving as boat clubs for the big crew race at the end of the year. There's also 
+		Cricket, a holiday in the fall where you unexpectedly get the whole day off, MISH, which is another surprise
+		holiday in the winter but with a dance the night of and the next day off, and field day, where you play
+		a variety of games with your dorm. EcoFest is another tradition where you wear flannel, listen to live music,
+		see farm animals, and carve pumpkins all while learning about sustainability. As a final note, the weather is
+		cold, so generally you should bring warm clothing for the late fall, all of winter, and early spring."]
+	},
+	{"class": "Rules and Bags",
+	"questions": ["How many bags can I accumulate per term?",
+		      "Is a long block 1 or 2 bags?",
+		      "How bad is a DC?",
+		      "How does the DC committee work?",
+		      "Who are the deans?",
+		      "what is a bag?",
+		      "what amount of time late qualifies as a tardy?",
+		      "who is the head of the DC?",
+		      "what do the deans do?",
+		      "what is the handbook?",
+		      "What is the dress code?",
+		      "What happens at the DC?",
+		      "What is the disciplinary committee?",
+		      "What is in the handbook?",
+		      "What can I wear to class?",
+		      "How many bags can I get before I get in trouble?",
+		      "Do I have to read the handbook?",
+		      "when do I have to be on campus?",
+		      "am i allowed to jump in the pond?",
+		      "can i own a scooter?",
+		      "can I own a bicycle?"],
+	"response": ["Bags, which are unexcused absences, have a limit of three per term before you have to face
+		consequences. Any unexcused absence, even for chapel, counts as a bag. If you get enough bags, you end up
+		at the disciplinary committee (better known as the DC) where they determine an appropriate consequence. You
+		also meet with the DC for other violations of handbook rules, which you should read to gain a better
+		idea of what is and is not allowed. The dress code is also in the handbook (although it's fairly casual).
+		Talk to your advisor if you have any more questions about rules."]
+	},
+	{"class": "Safety and Health",
+	"questions": ["What should I do if I feel unsafe on campus?",
+		      "What should I do if I get locked out?",
+		      "Why do we have LinC?",
+		      "what is a LinC day?",
+		      "what is a sanctuary?",
+		      "what is an HBR?",
+		      "What should I do if I get locked out of my room?",
+		      "What is safety?",
+		      "What is a health-based response?",
+		      "Is there counseling available?",
+		      "What is LinC?",
+		      "What do I do if I get sick?",
+		      "Where do I take my medicine?",
+		      "If I feel sick at night, what do I do?",
+		      "What is clark house?",
+		      "Who are the clark counselors?",
+		      "What is amnesty?",
+		      "What is the sanctuary policy?",
+		      "Who do I contact to set up an appointment for counseling?"],
+	"response": ["If you feel ill, you can stop by Clark House (next to the rectory, across from chapel). It is
+		also where you will pick up medicine if you have any in your daily routine. If you feel sick in the middle
+		of the night, contact Safety, and they will drive you to Clark. Safety can also help you if you get locked out of your room or
+		if you are struggling to get somewhere by giving you a ride. There are also counselors at Clark that you can
+		talk to if you need support. If you have a substance abuse problem, you can also claim sanctuary at clark and
+		receive a health-based response (HBR) to receive medical support without worrying about disciplinary actions.
+		The LinC curriculum, also related to safety and health, is intended to teach about these subjects (like substance abuse), or those relating
+		to identity and community."]
+	}]
+}
