@@ -13,7 +13,8 @@ https://www.projectpro.io/article/python-chatbot-project-learn-to-build-a-chatbo
 
 Also, this was my capstone project I worked on through my high school's Applied Science and Engineering Program (ASEP)!
 Since this was a graded project (and reviewed by biology and engineering teachers), my code is heavily, heavily
-commented. It was also originally worked on in Google CoLab (free GPU!), but I removed/commented out the sections that corresponded to that.
-I also had to write an executive summary about this!
+commented. It was also originally worked on in Google CoLab (free GPU!), but I removed/commented out the sections that corresponded to that
+(which I already did when I submitted this for a grade). Both the training and evaluation datasets are attached.
+I also had to write an executive summary about this project!
 
 At the time of creation (fall 2022), I only had a little experience with machine learning, so this was a fun exercise.
