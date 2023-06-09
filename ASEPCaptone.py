@@ -7,7 +7,7 @@ the code itself was not referenced, just the necessary order of
 tokenizing, lemmatizing, etc. Everything else that isn't marked
 was just prior knowledge from learning in the spring or was figured out
 through toying and testing in a different CoLab notebook. '''
-# Preprocessing Libraries
+
 import nltk
 nltk.download('punkt')                                                   
 nltk.download('wordnet')                                                  
@@ -20,7 +20,7 @@ from tensorflow import keras
 import keras.preprocessing
 from keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
-from datetime import datetime  # just to assign date/time to different runs
+from datetime import datetime 
 # %load_ext tensorboard
 
 # Importing and Designating the Datafile
