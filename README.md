@@ -8,13 +8,14 @@ It relies on a classification model to determine the category of the user's ques
 but the responses are pre-determined based on that category (rule-based). The responses are pretty broad and lengthy for that reason.
 
 I referenced the following articles for figuring out an approach to this project:
+
 https://pykit.org/chatbot-in-python-using-nlp/
+
 https://www.projectpro.io/article/python-chatbot-project-learn-to-build-a-chatbot-from-scratch/429
 
-Also, this was my capstone project I worked on through my high school's Applied Science and Engineering Program (ASEP)!
+This was my capstone project I worked on through my high school's Applied Science and Engineering Program (ASEP)!
 Since this was a graded project (and reviewed by biology and engineering teachers), my code is heavily, heavily
-commented. It was also originally worked on in Google CoLab (free GPU!), but I removed/commented out the sections that corresponded to that
-(which I already did when I submitted this for a grade). Both the training and evaluation datasets are attached.
-I also had to write an executive summary about this project!
+commented. It was also originally worked on in Google CoLab in order to access the free GPU, but I removed/commented 
+out the sections that corresponded to that. Both the training and evaluation datasets are attached.
 
 At the time of creation (fall 2022), I only had a little experience with machine learning, so this was a fun exercise.
