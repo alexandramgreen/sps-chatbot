@@ -1,7 +1,7 @@
 # sps-chatbot!
 
 This is a semi-rule-based chatbot meant to address questions specific to my high school. Because of that,
-the training and evaluation datasets are small, which is where the difficulty of working on this project lied.
+the training and evaluation datasets are small, which led to difficulties in improving accuracy and minimizing loss.
 I tested a few different models (dropout layers, embeddings, etc.) before ultimately finding that the one of the most simple
 structures was the most effective -- likely because of the limitations of the datasets. It achieved 82% accuracy.
 It relies on a classification model to determine the category of the user's question (machine learning),
